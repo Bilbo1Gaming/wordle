@@ -1,0 +1,12 @@
+{
+    "Case Sensitive": false, 
+    
+    "words" : [
+        "wordOne",
+        "wordTwo",
+        "wordThree",
+        "wordFour",
+        "wordFive"
+    ]
+    
+}
